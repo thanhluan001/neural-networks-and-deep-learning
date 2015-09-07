@@ -3,10 +3,9 @@
 """
 import numpy as np
 
-
     print("Hello World")
 
-    combTemp = new Did()
-    t = t + combTemp
-    f = t * 2 * combTemp + 4
-    combTemp = f
+    combchangeTemp = new Did()
+    t = t + combchangeTemp
+    f = t * 2 * combchangeTemp + 4
+    combchangeTemp = d
