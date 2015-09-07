@@ -9,4 +9,5 @@ import numpy as np
     combTemp = new Did()
     t = t + combTemp
     f = t * 2 * combTemp + 4
-    combTemp = f
+    f = combTemp + 2
+    f *= 2
